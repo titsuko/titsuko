@@ -8,34 +8,38 @@
 
 <h3>🌱 Обо мне</h3>
 
-Я — **студент**, увлечённый **бэкенд-разработкой** и **разработкой мобильных приложений**. Мне нравится изучать новые технологии и создавать чистые, поддерживаемые проекты.
+Я — **студент**, увлечённый **fullstack-разработкой**. Обожаю изучать новые технологии и создавать технически изящные, масштабируемые решения с чистым и поддерживаемым кодом. Всегда стремлюсь улучшать навыки и применять их в практических проектах.
 
 <ul>
-<li>🎓 Учусь на специальности «Программное обеспечение информационных технологий»</li>
-<li>💻 Интересуюсь C++, C#, Java, Go</li>
-<li>📱 Изучаю разработку под Android и IOS</li>
-<li>🔧 Стремлюсь писать масштабируемый и чистый код</li>
-<li>🌟 Открыт к сотрудничеству</li>
+<li>Обучаюсь по специальности «Программное обеспечение информационных технологий»</li>
+<li>Интересуюсь Java, Go и Swift</li>
+<li>Активно изучаю паттерны проектирования</li>
+<li>Разрабатываю приложения под Android и iOS</li>
+<li>Стремлюсь писать чистый, поддерживаемый и масштабируемый код</li>
+<li>Открыт для изучения новых технологий и инструментов</li>
 </ul>
 
-<h3>Технологический стек</h3>
+<h3>Мой технологический стек</h3>
+
+Это технологии, которые я изучал и продолжаю активно осваивать. С их помощью я создаю приложения и совершенствую навыки разработки, стремясь писать чистый, поддерживаемый и эффективный код, который можно будет переиспользовать позже в новых проектах.
 
 <div>
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" title="Java" />
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" title="Go" />
-<img src="https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white" alt="C#" title="C#" />
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-FF7900?logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white">
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" title="Android" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" />
-<img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" alt="Swift" title="Swift" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/React-1572B6?logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?logo=android&logoColor=white">
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" title="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white" alt="CSS3" title="CSS3" />
-<img src="https://img.shields.io/badge/React-1572B6?logo=react&logoColor=white" alt="CSS3" title="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" title="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&logoColor=white">
 </div>
+
