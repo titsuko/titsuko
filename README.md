@@ -1,45 +1,9 @@
-<h3 align="center">
-Привет, я <a href="https://github.com/titsuko">Максим</a> 👋
-</h3>
+<h3 align="center"> Hi, I’m <a href="https://github.com/titsuko">Maxim</a> 👋 </h3> <h2 align="center"> Backend Developer and Aspiring Mobile Developer </h2> <h3>🌱 About Me</h3>
 
-<h2 align="center">
-Бэкенд-разработчик и начинающий мобильный разработчик
-</h2>
+I am a student passionate about fullstack development. I love exploring new technologies and building technically elegant, scalable solutions with clean and maintainable code. I’m always striving to improve my skills and apply them in practical projects.
 
-<h3>🌱 Обо мне</h3>
+<ul> <li>Studying Software of Information Technologies</li> <li>Interested in Java, Go, and Swift</li> <li>Actively learning design patterns</li> <li>Developing applications for Android and iOS</li> <li>Aiming to write clean, maintainable, and scalable code</li> <li>Open to learning new technologies and tools</li> </ul> <h3>My Tech Stack</h3>
 
-Я — **студент**, увлечённый **fullstack-разработкой**. Обожаю изучать новые технологии и создавать технически изящные, масштабируемые решения с чистым и поддерживаемым кодом. Всегда стремлюсь улучшать навыки и применять их в практических проектах.
+These are the technologies I have studied and continue to actively explore. With them, I build applications and refine my development skills, aiming to write clean, maintainable, and efficient code that can be reused in future projects.
 
-<ul>
-<li>Обучаюсь по специальности «Программное обеспечение информационных технологий»</li>
-<li>Интересуюсь Java, Go и Swift</li>
-<li>Активно изучаю паттерны проектирования</li>
-<li>Разрабатываю приложения под Android и iOS</li>
-<li>Стремлюсь писать чистый, поддерживаемый и масштабируемый код</li>
-<li>Открыт для изучения новых технологий и инструментов</li>
-</ul>
-
-<h3>Мой технологический стек</h3>
-
-Это технологии, которые я изучал и продолжаю активно осваивать. С их помощью я создаю приложения и совершенствую навыки разработки, стремясь писать чистый, поддерживаемый и эффективный код, который можно будет переиспользовать позже в новых проектах.
-
-<div>
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-FF7900?logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white">
-</div>
-
-<div>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/React-1572B6?logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?logo=android&logoColor=white">
-</div>
-
-<div>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&logoColor=white">
-</div>
-
+<div> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-FF7900?logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white"> </div> <div> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/React-1572B6?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?logo=android&logoColor=white"> </div> <div> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&logoColor=white"> </div>
