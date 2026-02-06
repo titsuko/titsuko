@@ -2,18 +2,16 @@
 
 I am a student passionate about fullstack development. I love exploring new technologies and building technically elegant, scalable solutions with clean and maintainable code. I’m always striving to improve my skills and apply them in practical projects.
 
-<ul> <li>Studying Software of Information Technologies</li> <li>Interested in Java, Go, and Rust</li> <li>Actively learning design patterns</li> <li>Developing applications for Android and iOS</li> <li>Aiming to write clean, maintainable, and scalable code</li> <li>Open to learning new technologies and tools</li> </ul> <h3>My Tech Stack</h3>
+<ul> <li>Studying Software of Information Technologies</li> <li>Interested in Java and Go</li> <li>Actively learning design patterns</li> <li>Aiming to write clean, maintainable, and scalable code</li> <li>Open to learning new technologies and tools</li> </ul> <h3>My Tech Stack</h3>
 
 These are the technologies I have studied and continue to actively explore. With them, I build applications and refine my development skills, aiming to write clean, maintainable, and efficient code that can be reused in future projects.
 
 <div> 
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white" /> 
 </div> 
 
@@ -22,7 +20,6 @@ These are the technologies I have studied and continue to actively explore. With
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" /> 
   <img src="https://img.shields.io/badge/React-1572B6?logo=react&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-007AFF?logo=apple&logoColor=white" />
 </div> 
 
 <div> 
